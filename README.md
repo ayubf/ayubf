@@ -19,6 +19,6 @@
 
   [website]: https://ayubfarah.com
   [linkedin]: https://www.linkedin.com/in/ayub-farah-15b278217/
-  [resume]: https://ayubfarah.com/static/media/CV_AF.0809ef68fb3a41aee013.pdf
+  [resume]: https://ayubfarah.com/static/media/CV_AF.b29b2de2bf2abb3242f1.pdf
   [dev.to]: https://dev.to/ayubf
   [email]: mailto:ayubaf04@gmail.com
