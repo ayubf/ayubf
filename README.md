@@ -2,9 +2,8 @@
 
 ## I'm Ayub Farah, and I'm a developer
 
-- ⌨🐍 I use Python and TypeScript mostly, but I know a couple more languages
-- 📚📦 Ask me about Python libraries, the newest JavaScript frameworks and cool npm packages
-- 🚪🤔 How do I exit vim again?
+- CS Student @ The University of Houston
+- AWS SDE Intern 2023, Google CSSI 2022
 
 ## Connect
 
