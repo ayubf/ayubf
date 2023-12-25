@@ -18,6 +18,6 @@
 
   [website]: https://ayubfarah.com
   [linkedin]: https://www.linkedin.com/in/ayub-farah-15b278217/
-  [resume]: https://www.linkedin.com/in/ayubfarah/details/featured/1635545538737/single-media-viewer/?profileId=ACoAADattdcB-DnVRMNEAL8tsPIKBU4clqBZjio
+  [resume]: https://docs.google.com/document/d/1s_ZSxTAYZjTrnart0uc524cu6R3ECRraFxKcMJL7nCw
   [dev.to]: https://dev.to/ayubf
   [email]: mailto:ayubaf04@gmail.com
