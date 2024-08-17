@@ -3,7 +3,7 @@
 ## I'm Ayub Farah
 
 - CS Student @ The University of Houston
-- AWS SDE Intern 2023, Google CSSI 2022
+- AWS SDE Intern 2024, AWS SDE Intern 2023, Google CSSI 2022
 
 ## Connect
 
